@@ -1,4 +1,4 @@
-![youtube_cover_6](https://user-images.githubusercontent.com/52596252/127835034-d574d6c3-3369-425b-9d9f-5f6eda62381a.jpg)
+![banner-tuan-IT](https://user-images.githubusercontent.com/52596252/128060728-601c935b-ac4f-4d6e-8ffb-7e2f0a04586b.jpg)
 
 <h1 align="center">Hi 👋, I'm Tuan IT</h1>
 <h3 align="center">A passionate C++ developer from Viet Nam</h3>
